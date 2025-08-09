@@ -47,14 +47,14 @@ bash
 Copy
 Edit
 # Clone repo
-git clone https://github.com/YOUR-USERNAME/nivea-webscraper.git
-cd nivea-webscraper
+git clone https://github.com/Karmscript/nivea-webscraping
+cd nivea-webscraping
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Run script
-python scrape_nivea.py
+# Run notebook
+Nivea_Scraper.ipnyb
 Applications
 Market analysis for skincare products
 
@@ -63,6 +63,7 @@ Competitive ingredient comparison
 E-commerce product grouping for recommendation systems
 
 Author
+
 Ramadan Ahmed
 📧ahmedramadanbamidele@gmail.com
 🔗 www.linkedin.com/in/ramadan-ahmed-797846219
